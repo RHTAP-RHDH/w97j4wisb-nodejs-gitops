@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w97j4wisb-nodejs-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/w97j4wisb-nodejs-gitops
